@@ -14,7 +14,7 @@ setelah fokus berpindah ke **persiapan kerja & interview teknis**.
 ```
 .
 ├── README.md
-├── CHANGELOG.md
+├── Changelog.md
 └── prompts/
     ├── v1.0-lks-competition-prep.md
     └── v2.0-industry-job-prep.md
@@ -34,7 +34,7 @@ sehari-hari dan buat dijelaskan ulang saat interview teknis.
 | v1.0  | —       | Persiapan LKS ITNSA (standar WSC) | Arsip, tidak lagi dipakai |
 | v2.0  | 2026-08-10 | Persiapan kerja & interview teknis | **Aktif** |
 
-Detail perubahan tiap versi ada di [`CHANGELOG.md`](./CHANGELOG.md).
+Detail perubahan tiap versi ada di [`Changelog.md`](./Changelog.md).
 
 ## Kenapa Repo Ini Ada
 
